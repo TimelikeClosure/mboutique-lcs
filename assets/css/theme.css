@@ -31,3 +31,8 @@ a {
 a:hover {
     color: #fffabe;
 }
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
